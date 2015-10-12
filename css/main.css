@@ -114,7 +114,7 @@ h2 {
 
 footer {
 	border-top: solid 3px #D87E28;
-	border-spacing: 1em;
+	padding-top: 1em;
 	font-size: 12px;
 	background-color: #afb3c2;
 }
